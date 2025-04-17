@@ -11,7 +11,7 @@ This is a fun, interactive Sudoku game built using Python and Pygame. It feature
 
 ## 🚀 How It Works
 
-- A Sudoku puzzle is generated via `SudokuGenerator.py`, which uses helper logic from the library `sudoku`.
+- A Sudoku puzzle is generated via `SudokuGenerator.py`, which uses the library `sudoku`.
 - The puzzle is displayed on a 9x9 grid rendered with Pygame.
 - Players can click on empty cells and enter numbers (1-9).
 - Press `Enter` to check your solution.
